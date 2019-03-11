@@ -24,5 +24,5 @@ Members:
 
 [Backlog](https://docs.google.com/spreadsheets/d/1Hhfbvf0mXmCzQUOZNcOy67RbeIWsSCX_6Wwh1PhIGYA/edit#gid=0)
 
-#### *First sprint*
+#### <b>*First sprint*</b>
 [Presentation](https://docs.google.com/presentation/d/1b6JCxygVZsvtKI6ng-KrT1nKm-Lxusb0o92Wa9wdfuI/edit?usp=sharing)
